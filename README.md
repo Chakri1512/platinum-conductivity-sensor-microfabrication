@@ -6,15 +6,11 @@
 **University of Utah | Utah Nanofab | Fall 2025**
 
 
-[![Microfabrication](https://img.shields.io/badge/Microfabrication-Cleanroom-blue)](#fabrication-process-flow)
-
-[![PVD](https://img.shields.io/badge/Deposition-PVD-orange)](#3-physical-vapor-deposition-pvd)
-
-[![PECVD](https://img.shields.io/badge/Deposition-PECVD-green)](#5-plasma-enhanced-chemical-vapor-deposition-pecvd)
-
-[![Metrology](https://img.shields.io/badge/Metrology-Characterization-purple)](#fabrication-and-metrology-equipment)
-
-[![Status](https://img.shields.io/badge/Status-Functionally_Validated-brightgreen)](#10-electrical-characterization)
+**[Microfabrication](#fabrication-process-flow)** |
+**[PVD](#3-physical-vapor-deposition-pvd)** |
+**[PECVD](#5-plasma-enhanced-chemical-vapor-deposition-pecvd)** |
+**[Metrology](#fabrication-and-metrology-equipment)** |
+**[Electrical Testing](#10-electrical-characterization)**
 
 
 ## Project Overview
