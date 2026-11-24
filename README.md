@@ -50,6 +50,36 @@ wafer dicing, and electrical characterization.
 | Electrical characterization | Four-electrode EIS |
 | Device validation | Linear conductance–conductivity response |
 
+
+## Experimental Process Characterization
+
+### PECVD Oxide Thickness
+
+![PECVD Thickness Analysis](images/oxide_thickness.png)
+
+Five-point thickness characterization:
+- Mean thickness: 236.34 nm
+- Sample standard deviation: 2.11 nm
+- Thickness range: 4.90 nm
+
+### Photoresist Thickness
+
+![Photoresist Thickness Analysis](images/photoresist_thickness.png)
+
+Five-point thickness characterization:
+- Mean thickness: 1185.62 nm
+- Sample standard deviation: 6.64 nm
+- Thickness range: 16.00 nm
+
+### Supporting Engineering Documentation
+
+- [Fabrication Process Flow](docs/process-flow.md)
+- [Process Results and Analysis](docs/process-results.md)
+- [Experimental Data](data/)
+- [Python Analysis Script](scripts/analyze_process.py)
+- [Data Quality and Limitations](docs/data-quality.md)
+
+
 ## Fabrication Process Flow
 
 ```mermaid
